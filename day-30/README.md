@@ -1,11 +1,9 @@
----
-
 # Day 30 - Bash Best Practices & Security
 
 ## Objective
 
 **What was the goal for today?**
-To move beyond basic scripting and learn professional standards for writing clean, maintainable, and secure Bash code for Linux environments[cite: 1].
+To move beyond basic scripting and learn professional standards for writing clean, maintainable, and secure Bash code for Linux environments.
 
 ---
 
